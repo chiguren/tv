@@ -592,10 +592,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-CHC家庭影院,http://117.148.179.154/PLTV/88888888/224/3221231799/index.m3u8?zyangd
-CHC家庭影院,http://117.148.179.154/PLTV/88888888/224/3221232942/index.m3u8?zyangd
-CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
-CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?zyangd
 电影轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 4K电影[超清],http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 21电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231679/index.m3u8
@@ -796,7 +792,11 @@ CCTV-6电影,http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
 CCTV-6电影,http://39.135.138.60:18890/TVOD/88888910/224/3221225650/index.m3u8
 CCTV-6电影,http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8
 CCTV6电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
-CHC·动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC家庭影院,http://117.148.179.154/PLTV/88888888/224/3221231799/index.m3u8?zyangd
+CHC家庭影院,http://117.148.179.154/PLTV/88888888/224/3221232942/index.m3u8?zyangd
+CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
+CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?zyangd
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?$移动超清1080P
 CHC动作电影,http://migu.jilu8.cn/3221232945/index.m3u8

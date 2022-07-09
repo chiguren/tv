@@ -599,8 +599,8 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 27.可乐电影,http://epg.112114.xyz/douyu/20415
 29.奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 1905电影,http://36.101.206.161/txdirect.hls.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.m3u8
-1905电影-01,http://36.101.206.161/txdirect.hls.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.m3u8
-1905电影-02,http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+1905电影,http://36.101.206.161/txdirect.hls.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.m3u8
+1905电影,http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 ⒔电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231634/index.m3u8
 ⒗电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231643/index.m3u8
 ⒘电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231645/index.m3u8
@@ -625,7 +625,7 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 动作电影,http://39.135.32.236:6610/PLTV/77777777/224/3221225703/index.m3u8?
 动作电影,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
-动作电影[高清][非官方],http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
+动作电影[高清],http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
 斗鱼-港电影院,http://epg.112114.xyz/douyu/9826611
 斗鱼电影2,http://124.223.212.38:83/douyu/6027991
 斗鱼电影3,http://124.223.212.38:83/douyu/4105989
@@ -715,10 +715,10 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 黑莓电影,http://111.40.196.32/PLTV/88888888/224/3221225610/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影-01,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-黑莓电影-02,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-黑莓电影[高清][非官方],http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
-黑莓电影频道,http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
+黑莓电影,http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A$电信高清720P
 湖南电影,http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8?$移动高清720P
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
@@ -828,13 +828,13 @@ NewTV超级电影,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
 NewTV超级电影,http://39.135.138.60:18890/PLTV/88888888/224/3221225623/index.m3u8
 NewTV超级电影,http://39.134.65.162/PLTV/88888888/224/3221225644/1.m3u8
 NewTV超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-NewTV超级电影 (1080p),http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-NewTV超级电影-01,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-NewTV超级电影-02,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
-NewTV超级电影-03,http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
-NewTV超级电影-04,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
-NewTV超级电影HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
-NewTV超级电影HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+NewTV超级电影,http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
+NewTV超级电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
 NewTV动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 NewTV动作电影,http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
 NewTV动作电影,http://111.12.101.22:6610/PLTV/77777777/224/3221225703/index.m3u8?$

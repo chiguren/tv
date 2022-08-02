@@ -1114,7 +1114,7 @@ TARA皇冠女子,http://epg.112114.xyz/douyu/3221207
 音乐台长,http://epg.112114.xyz/douyu/9629943
 agent电音,http://epg.112114.xyz/douyu/259574
 小田音乐top,http://epg.112114.xyz/douyu/9787387
-慢摇DJ，#genre#
+慢摇DJ,#genre#
 《爱你到最后一刻》,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
 《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
 《人间惊鸿客》,https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4

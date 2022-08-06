@@ -351,7 +351,9 @@ CCTV04 欧洲H,http://49.7.234.98:808/hls/167/index.m3u8
 CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 卫视频道,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 北京卫视,http://39.136.48.2:8089/PLTV/88888888/224/3221226146/index.m3u8
 北京卫视,http://49.7.234.98:808/hls/9/index.m3u8
 安徽卫视,http://39.136.48.2:8089/PLTV/88888888/224/3221225775/index.m3u8
@@ -422,11 +424,6 @@ CETV01,http://39.134.66.110/PLTV/88888888/224/3221225563/index.m3u8
 CETV01,http://49.7.234.98:808/hls/166/index.m3u8
 CETV02,http://49.7.234.98:808/hls/129/index.m3u8
 CETV04,http://49.7.234.98:808/hls/131/index.m3u8
-
-港湾频道,#genre#
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
 网络频道,#genre#
 体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225706/index.m3u8
 惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8

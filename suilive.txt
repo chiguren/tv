@@ -2152,6 +2152,65 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 乐享汇_音乐旅程,http://vod.cctv.cn/zhuanma/cms/cut/2019/6/6/OlyL20190606094500000CH00000014/CCTV15_2m_7093ec08d7bf4cd39ac11045a3d82416.mp4
 乐享汇_彩箫玉笛凤凰声,http://vod.cctv.cn/zhuanma/cms/cut/2019/4/15/OlyL20190415113500000CH00000260/CCTV15_2m_401ec8daf0c34390b8c94e9ab0b907fb.mp4
 乐享汇_且来共我听胡琴,http://vod.cctv.cn/zhuanma/cms/cut/2019/4/8/OlyL20190408090900000CH00001680/CCTV15_2m_bf16e61dfd49458499daf7b7955bf668.mp4
+诗词大会,#genre#
+第一季 20160212,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/94d040228587461b9746dcc148b9f786/850.m3u8
+第一季 20160219,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/de149c1ece43437a943aba3e0f45f147/850.m3u8
+第一季 20160226,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e502ae178bb44cc680395904801658d3/850.m3u8
+第一季 20160311,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8411007bcb6e43e6b7ba55241644dbf4/850.m3u8
+第一季 20160304,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3f1b9681f55e48938a7601dd31c56104/850.m3u8
+第一季 20160318,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c1c9245c792244c49fe87ee07c94d74c/850.m3u8
+第一季 20160325,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9df9f60660b64e089082e7ae23c3ce98/850.m3u8
+第一季 20160401,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5a6f57e7d5314f15a885e12a88d56d42/850.m3u8
+第一季 20160408,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7aa9b6c150cd496182db6d36549223df/850.m3u8
+第一季 20160415 总决赛,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/59c5ba5c897441df91434cbd0ce7629c/850.m3u8
+第二季20170213,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7f35b65ea6f4ad7a97bff3871816538/1200.m3u8
+第二季20170214,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b1d27759031d4ec2afbb94a021203c43/1200.m3u8
+第二季 20170215,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c22e5c8aecc54282a991ee45ac3c0d94/1200.m3u8
+第二季 20170216,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8ae5020c2e5e4729bf6b486857ab1ef2/1200.m3u8
+第二季 20170220,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/56c4798087764e5083e11e0eb8239342/1200.m3u8
+第二季 20170221,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/332c6348c2f744308218e283b56b64f2/1200.m3u8
+第二季 20170222,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a3fb66cf9413475eb4f261d39054ed82/1200.m3u8
+第二季 20170223,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a898663c034c46b0aeacb55637667854/1200.m3u8
+第三季 20180323 第一场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0b75cf6181424de8874bc69404eb5971/1200.m3u8
+第三季 20180324 第二场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/509e6d97bd014e3799a21fc89b340494/1200.m3u8
+第三季 20180325 第三场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7961ab6582142a9b23cb19e703fc7ca/1200.m3u8
+第三季 20180326 第四场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98c3f3bbe7ce417da7b8c99c9ef3531a/1200.m3u8
+第三季 20180327 第五场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/77162e93d8604a78906908e0695b56f3/1200.m3u8
+第三季 20180328 第六场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5d30f1fb404b41f5921996092fce6829/1200.m3u8
+第三季 20180329 第七场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad9d1fe32a9c44c6bdac32d632cfc751/1200.m3u8
+第三季 20180330 第八场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f0c7d35fb0447899c44a51f25413887/1200.m3u8
+第三季 20180331 第九场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/232eb8b4507f457b97dd9319b739b1ff/1200.m3u8
+第三季 20180404 第十场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a980d894534c4088b02dcb88d82d4c56/1200.m3u8
+第四季 20190205 第一场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2a3b21eb8dd485b82b097d5b6b671c2/1200.m3u8
+第四季 20190206 第二场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c211d3a87a9647eab19d3e3de962aa29/1200.m3u8
+第四季 20190207 第三场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57e245c52de743a281add2f1e28be8a5/1200.m3u8
+第四季 20190208 第四场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/13921eba29974372a9c8f5cc81f12ce2/1200.m3u8
+第四季 20190209 第五场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6412e26caa8b401886cd28c9f1a2d08c/1200.m3u8
+第四季 20190210 第六场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/082f06c9fa7c4b7e8bd9044cbacc9417/1200.m3u8
+第四季 20190211 第七场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0db214391f714dea8d3b9bee3c7911b8/1200.m3u8
+第四季 20190212 第八场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f9eb73fea844edfa524ae0db1da9f96/1200.m3u8
+第四季 20190213 第九场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/594d097dfe494aaf82ea6a71dbe281ae/1200.m3u8
+第四季 20190214 第十场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/907bd5797fc549448f821dd1e16b840b/1200.m3u8
+第五季 第一场 20200128,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b6722e3a8b154c34ac312107a46ee99d/1200.m3u8
+第五季 第二场 20200129,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a4d07ea76ae428dafc2c1ea386e7095/1200.m3u8
+第五季 第三场 20200130,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d71d86bd5374d79b9fbfc4519d1418b/1200.m3u8
+第五季 第四场 20200131,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6cfb6140f46748e782ddf3dbdb240f95/1200.m3u8
+第五季 第五场 20200203,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e21243c49a3496dbd1b0df4d37f49db/1200.m3u8
+第五季 第六场 20200204,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/49dfa8da941b4a50a90085d8aa6d2357/1200.m3u8
+第五季 第七场 20200205,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/10d0acaa4f5d49539cfe82670b1250fc/1200.m3u8
+第五季 第八场 20200206,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/502f3e60d32745718c01970f70b4556e/1200.m3u8
+第五季 第九场 20200207,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdac118bb23746ccad8b847c500d9e86/1200.m3u8
+第五季 第十场 20200209,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af572eb728d14ac4976d603bd721fb29/1200.m3u8
+第六季 第一场 20210213,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5eb0a3d4c2d84a249207dcb659602c9d/1200.m3u8
+第六季 第二场 20210306,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64ac65ad55b1455b81ba85e8bb239192/1200.m3u8
+第六季 第三场 20210313,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dd55f9f3fdd24b64a0351d80fee39e24/1200.m3u8
+第六季 第四场 20210320,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e46c24e2218642369c58fe5b71066afa/1200.m3u8
+第六季 第五场 20210327,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5466c736aade4731833ff2fe7c97fe2a/1200.m3u8
+第六季 第六场 20210403,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46628db063844f2f8063ea982aa0f65a/1200.m3u8
+第六季 第七场 20210410,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/66bc39dd76094a2b90ee2d7b23187e69/1200.m3u8
+第六季 第八场 20210417,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0213ab8997bd415db5c14c40b781169a/1200.m3u8
+第六季 第九场 20210424,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0504abe59c034d30827d251fc1624536/1200.m3u8
+第六季 第十场 20210503,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ec693b28d154c1c9bc3faaae9f1b5ed/1200.m3u8
 推荐频道,#genre#
 七彩戏剧F,http://112.19.214.90:8883/tsfile/live/1015_1.m3u8
 七彩戏剧F,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8

@@ -2211,13 +2211,7 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 第六季 第八场 20210417,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0213ab8997bd415db5c14c40b781169a/1200.m3u8
 第六季 第九场 20210424,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0504abe59c034d30827d251fc1624536/1200.m3u8
 第六季 第十场 20210503,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ec693b28d154c1c9bc3faaae9f1b5ed/1200.m3u8
-推荐频道,#genre#
-七彩戏剧F,http://112.19.214.90:8883/tsfile/live/1015_1.m3u8
-七彩戏剧F,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-梨园频道,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
-梨园戏曲F,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
-东北戏曲F,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
-河南文物,http://39.136.48.2:8089/PLTV/88888888/224/3221226358/index.m3u
+
 爱系列专区,#genre#
 爱悬疑,http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt#http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt#http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
 
@@ -2399,36 +2393,6 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 
 爱赛车,http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
 
-爱奇艺专区,#genre#
-
-热播剧集,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-
-票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-
-收视冠军,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-
-经典港片,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-
-惊悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-
-仙侠玄幻,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-
-权谋剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
-
-军旅剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-
-抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-
-宫廷正剧,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-
-军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-
-五星影院,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-
-糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
-
-
-
 咪咕专区,#genre#
 
 盗墓方法,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
@@ -2492,10 +2456,6 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 KiD影院9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822/index.m3u8
 
 KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
-
-
-
-
 
 每日科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 
@@ -2612,3 +2572,11 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 
 刘德华影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+
+推荐频道,#genre#
+七彩戏剧F,http://112.19.214.90:8883/tsfile/live/1015_1.m3u8
+七彩戏剧F,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+梨园频道,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/index.m3u8
+梨园戏曲F,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+东北戏曲F,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+河南文物,http://39.136.48.2:8089/PLTV/88888888/224/3221226358/index.m3u

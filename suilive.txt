@@ -1506,7 +1506,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 卫视中文台,http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 
-卫视电影台,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+卫视电影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 
 国兴卫视,http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
 

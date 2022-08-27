@@ -2000,9 +2000,9 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 广东卫视,http://py.fatcat.icu:8880/hls/1/index.m3u8
 
-浙江卫视-D,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?
 
-东方卫视-C,http://112.17.40.220/PLTV/88888888/224/3221232882/index.m3u8
+东方卫视,http://112.17.40.220/PLTV/88888888/224/3221232882/index.m3u8
 
 南方卫视,http://py.fatcat.icu:8880/hls/8/index.m3u8
 
@@ -2064,7 +2064,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 湖南卫视,http://39.135.138.59:18890/PLTV/88888888/224/3221225745/index.m3u8
 
-湖南卫视F,http://1.195.111.251:11190/tsfile/live/0128_1.m3u8
+湖南卫视,http://1.195.111.251:11190/tsfile/live/0128_1.m3u8
 
 吉林卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
 
@@ -2072,7 +2072,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 江苏卫视,https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8
 
-江苏卫视F,http://1.195.111.251:11190/tsfile/live/0124_1.m3u8
+江苏卫视,http://1.195.111.251:11190/tsfile/live/0124_1.m3u8
 
 江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
 
@@ -2106,9 +2106,9 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 廈門卫视,http://61.219.170.95:18531/http/192.168.1.9:8078/hls/42/80/xmtv.m3u8
 
-海峽卫视FHD,http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
+海峽卫视,http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
 
-卫视中文FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+卫视中文,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 
 北京卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8$江西宜春8M
 

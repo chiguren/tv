@@ -1134,7 +1134,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
 
-湖南卫视 (1080p),http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 
 天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 
@@ -1500,7 +1500,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 河北卫视,http://39.137.49.76:8080/PLTV/88888888/224/3221225732/index.m3u8?
 
-重庆卫视 FHD,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8?zweid
 
@@ -1730,7 +1730,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 重庆卫视,http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
 
-厦门卫视 480,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229184/index.m3u8
+厦门卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229184/index.m3u8
 
 吉林卫视,http://39.134.67.226/PLTV/88888888/224/3221225981/index.m3u8
 
@@ -1952,7 +1952,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 
-黑龙江卫视HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231520/index.m3u8
+黑龙江卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231520/index.m3u8
 
 浙江卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
 
@@ -2056,7 +2056,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 广西卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
 
-河南卫视F,http://1.195.111.251:11190/tsfile/live/0139_1.m3u8
+河南卫视,http://1.195.111.251:11190/tsfile/live/0139_1.m3u8
 
 湖北卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 

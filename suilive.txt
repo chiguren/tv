@@ -1114,7 +1114,7 @@ CCTV04 美洲H,http://49.7.234.98:808/hls/168/index.m3u8
 
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8#
 
-广东Ⅰ广东卫视,http://117.169.120.136:8080/live/guangdongstv/.m3u8
+广东卫视,http://117.169.120.136:8080/live/guangdongstv/.m3u8
 
 安徽卫视,http://183.207.255.197/live/program/live/ahwshd/4000000/mnf.m3u8
 

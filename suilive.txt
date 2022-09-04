@@ -953,8 +953,8 @@ CCTV01综合,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m
 CCTV02财经,http://39.136.48.2:8089/PLTV/88888888/224/3221225751/index.m3u8
 CCTV02财经,http://49.7.234.98:808/hls/2/index.m3u8
 CCTV02财经,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV03综艺H,http://49.7.234.98:808/hls/151/index.m3u8
-CCTV03综艺H,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV03综艺,http://49.7.234.98:808/hls/151/index.m3u8
+CCTV03综艺,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV04国际,http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
 CCTV04国际,http://39.136.48.2:8089/PLTV/88888888/224/3221225757/index.m3u8
 CCTV04国际,http://49.7.234.98:808/hls/127/index.m3u8

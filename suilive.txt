@@ -384,7 +384,7 @@ CCTV16 4K,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV
 延津电视台,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8
 杞县新闻综合,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
 
-4K,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+4KUHD,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 CCTV1,http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225924/index.m3u8
 CCTV1,http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 CCTV1,http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8

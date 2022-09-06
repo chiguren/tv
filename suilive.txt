@@ -903,6 +903,25 @@ CCTV5[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 天津卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
 黑龙江卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 央视频道,#genre#
+CCTV01,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8
+CCTV02,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
+CCTV03,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8
+CCTV04,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
+CCTV05,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231702/index.m3u8
+CCTV5+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
+CCTV06,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
+CCTV07,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231633/index.m3u8
+CCTV08,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
+CCTV09,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
+CCTV10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8
+CCTV11,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/index.m3u8
+CCTV12,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
+CCTV13,http://117.169.120.247:8080/live/cctv-13/1.m3u8
+CCTV14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231648/index.m3u8
+CCTV15,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231693/index.m3u8
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV17,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
+
 CCTV01,rtsp://221.203.83.35/PLTV/88888888/224/0/3221226118/iptv65795.smil
 
 CCTV02,rtsp://221.203.83.35/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil

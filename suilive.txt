@@ -821,7 +821,6 @@ NewTV农业致富,http://[2409:8087:5c0b:10:2::77]:6610/000000001000/61936846376
 萌牛影院,http://maomao.kandiantv.cn/douyu1.php?id=7494871
 午夜故事,http://maomao.kandiantv.cn/douyu1.php?id=8722254
 功夫港片,http://maomao.kandiantv.cn/douyu1.php?id=3637765
-超清港剧,http://maomao.kandiantv.cn/douyu1.php?id=223521
 桃花影院,http://maomao.kandiantv.cn/douyu1.php?id=7305938
 贝贝影院,http://maomao.kandiantv.cn/douyu1.php?id=431460
 译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
@@ -834,10 +833,8 @@ NewTV农业致富,http://[2409:8087:5c0b:10:2::77]:6610/000000001000/61936846376
 经典港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
 鬼吹灯,http://maomao.kandiantv.cn/douyu1.php?id=9292503
 胡八一,http://maomao.kandiantv.cn/douyu1.php?id=7701735
-胡八一,http://maomao.kandiantv.cn/douyu1.php?id=7517784
 小宇影院,http://maomao.kandiantv.cn/douyu1.php?id=323876
 恐怖丧尸鬼片,http://maomao.kandiantv.cn/douyu1.php?id=263824
-表妹影院,http://maomao.kandiantv.cn/douyu1.php?id=5423
 荒野建造者,http://maomao.kandiantv.cn/douyu1.php?id=9611578
 邦德影院,http://maomao.kandiantv.cn/douyu1.php?id=9292499
 科幻动作灾难,http://maomao.kandiantv.cn/douyu1.php?id=248753
